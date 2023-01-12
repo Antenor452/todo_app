@@ -1,0 +1,17 @@
+.form input {
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+.btn-submit {
+  margin: 10px auto;
+  padding: 5px 20px;
+  display: block;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+}
+.btn-submit:hover {
+  transition: all linear 0.3s;
+  background-color: white;
+  color: black;
+}
